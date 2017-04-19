@@ -4,12 +4,11 @@ h2 {
 
 }
 
-p.intro {
+.intro {
   width: 50%;
   color: grey;
-
 }
 
-img.intro {
-  height: 500px;
+.img_intro {
+  height: 500px
 }
